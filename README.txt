@@ -1,2 +1,2 @@
-A VB Migration Partner Sample
-School sample
+A VB Migration Partner Sample.
+School sample.
